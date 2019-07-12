@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.css"
 import Menu from "./components/Menu.jsx"
 import TaskList from "./components/TaskList.jsx"
 import Toolbar from "./components/Toolbar.jsx";
+
 class App extends React.Component {
   constructor(props) {
     super(props);
